@@ -1,0 +1,230 @@
+/*
+  Dolce, редизайн 02.11.2026, вторая итерация (решение Влада): основа мятный, тёмно-мятный и белый.
+  Золото и малина остаются только в отзывах с Яндекс Карт.
+  Текст тёмно-мятный, не серый. Контраст: ink на белом 12:1, ink на мяте 7.5:1,
+  белый на тёмной мяте 5.1:1, белый на mint-deeper 7:1, ink-soft на белом 6:1.
+  Мята на белом: только фон и декор, не текст.
+*/
+@import "tailwindcss";
+
+@theme {
+  --color-mint: #86d3ca;
+  --color-mint-2: #74c8be;
+  --color-mint-light: #e4f5f2;
+  --color-mint-deep: #2c7a73;
+  --color-mint-deeper: #23635d;
+
+  --color-ink: #1f3a37;
+  --color-ink-2: #172e2b;
+  --color-ink-soft: #4d6662;
+  --color-line: #d7ebe7;
+
+  /* Только блок отзывов. */
+  --color-berry: #c8325f;
+  --color-gold: #e3a530;
+  --color-gold-deep: #8a5a12;
+  --color-butter: #fff3cf;
+
+  --font-display: var(--font-playfair), Georgia, serif;
+  --font-script: var(--font-vibes), cursive;
+  --font-sans: var(--font-onest), system-ui, sans-serif;
+
+  --ease-out-soft: cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 88px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: #fff;
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  background: var(--color-mint);
+  color: var(--color-ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-mint-deep);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Разрежённые капсы, как «RAMILLAS» на референсе. */
+.caps {
+  text-transform: uppercase;
+  letter-spacing: 0.24em;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+/* Рукописный акцент: Great Vibes крупнее соседей, иначе тонет. */
+.script {
+  font-family: var(--font-script);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1;
+}
+
+/*
+  Фирменное название: настоящий вордмарк DOLCE как маска, цвет берётся из currentColor.
+  .wordmark — целиком с подписью «кофейня-кондитерская», .wordmark-name — только «DOLCE».
+*/
+.wordmark,
+.wordmark-name {
+  display: inline-block;
+  background: currentColor;
+  -webkit-mask: url("/img/brand/dolce-wordmark.png") no-repeat;
+  mask: url("/img/brand/dolce-wordmark.png") no-repeat;
+}
+.wordmark {
+  aspect-ratio: 973 / 256;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+}
+.wordmark-name {
+  aspect-ratio: 973 / 180;
+  -webkit-mask-size: 100% auto;
+  mask-size: 100% auto;
+  -webkit-mask-position: bottom;
+  mask-position: bottom;
+}
+
+/* Фестон: край кружевной салфетки под тортом. Ставится на верх секции. */
+.scallop-top {
+  position: relative;
+}
+.scallop-top::before {
+  content: "";
+  position: absolute;
+  inset: -17px 0 auto 0;
+  height: 18px;
+  background: inherit;
+  -webkit-mask: radial-gradient(18px 18px at 18px 18px, #000 98%, transparent) 0 0 / 36px 36px repeat-x;
+  mask: radial-gradient(18px 18px at 18px 18px, #000 98%, transparent) 0 0 / 36px 36px repeat-x;
+  pointer-events: none;
+}
+
+/* Бегущие строки: на reduced motion стоят на месте. */
+@keyframes marquee {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.marquee-track {
+  animation: marquee var(--marquee-duration, 40s) linear infinite;
+}
+
+@media (hover: hover) {
+  .marquee:hover .marquee-track {
+    animation-play-state: paused;
+  }
+}
+
+/* Мягкое «дыхание» мятной кнопки меню. */
+@keyframes glow {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgb(134 211 202 / 0.6);
+  }
+  50% {
+    box-shadow: 0 0 0 8px rgb(134 211 202 / 0);
+  }
+}
+.burger-glow {
+  animation: glow 2.8s ease-in-out infinite;
+}
+
+/*
+  Страховка. Анимации появления приходят с сервера скрытыми (opacity:0 / сдвиг) и ждут скрипт.
+  Если скрипт не запустился за 2,5 с (медленная сеть, ошибка, JS выключен), содержимое показывается само.
+  Анимация CSS сильнее инлайн-стиля, после запуска скрипта (data-hydrated) правило отключается.
+*/
+@keyframes no-js-show {
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+html:not([data-hydrated]) [style^="opacity:0;"],
+html:not([data-hydrated]) [style="opacity:0"],
+html:not([data-hydrated]) [style^="transform:translateY("] {
+  animation: no-js-show 0.6s ease-out 2.5s forwards;
+}
+
+/*
+  Открытие блюда: фото мягко проявляется с лёгким приближением, текст поднимается следом.
+  Только opacity и transform — телефон рисует это без подтормаживаний.
+*/
+@keyframes dish-photo-in {
+  from {
+    opacity: 0;
+    transform: scale(1.04);
+  }
+}
+@keyframes dish-text-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+}
+.dish-photo-in {
+  animation: dish-photo-in 0.5s cubic-bezier(0.23, 1, 0.32, 1) both;
+}
+.dish-text-in {
+  animation: dish-text-in 0.5s cubic-bezier(0.23, 1, 0.32, 1) 0.08s both;
+}
+
+/*
+  «Пружинка» iPhone за краем страницы: без неё и без белой полосы.
+  Фон под страницей сверху в цвет первого экрана, у подвала — в цвет подвала (data-bg ставит MotionRoot).
+*/
+html {
+  overscroll-behavior-y: none;
+  background-color: #fff;
+}
+html[data-bg="mint"] {
+  background-color: var(--color-mint);
+}
+html[data-bg="ink"] {
+  background-color: var(--color-ink);
+}
+
+/* Лента отзывов: на телефоне останавливается, пока палец на ней (data-paused ставит Marquee). */
+.marquee[data-paused] .marquee-track {
+  animation-play-state: paused;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .marquee-track,
+  .burger-glow,
+  .dish-photo-in,
+  .dish-text-in {
+    animation: none;
+  }
+}
