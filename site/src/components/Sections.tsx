@@ -255,7 +255,7 @@ export function Shops() {
           ))}
         </ul>
         <Reveal className="mt-4 overflow-hidden rounded-2xl">
-          <div className="relative aspect-[16/9] max-md:aspect-[4/3]">
+          <div className="relative aspect-[16/9]">
             <Image src="/img/dolce-storefront-wide.webp" alt="Вход и вывеска кондитерской Dolce Bianco" fill sizes="(min-width: 1320px) 1256px, 100vw" className="object-contain bg-mint-light" />
           </div>
         </Reveal>

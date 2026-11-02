@@ -9,19 +9,19 @@ const STORIES = [
     title: "Кофе с осенним характером",
     text: "Капучино «Булочка с корицей», какао «Буэно» и другие напитки из специального меню Dolce × ЭкоНива.",
     date: "14 октября 2026", iso: "2026-10-14", href: "https://t.me/dolcebiancogroup/895",
-    image: "/img/journal/cinnamon-cappuccino.webp", alt: "Капучино «Булочка с корицей» из публикации Dolce",
+    position: "50% 100%", image: "/img/journal/cinnamon-cappuccino.webp", alt: "Капучино «Булочка с корицей» из публикации Dolce",
   },
   {
     title: "Маленькая тыква с секретом",
     text: "Шоколадный корпус, мусс крем-брюле, вишнёвая начинка и хрустящая крошка — знакомство с осенним десертом.",
     date: "26 октября 2026", iso: "2026-10-26", href: "https://t.me/dolcebiancogroup/909",
-    image: "/img/journal/pumpkin-dessert.webp", alt: "Пирожное «Тыква» на белой тарелке",
+    position: "50% 50%", image: "/img/journal/pumpkin-dessert.webp", alt: "Пирожное «Тыква» на белой тарелке",
   },
   {
     title: "Сладкий повод для подарка",
     text: "Шоколад, печенье и конфеты: восемь видов сладостей ручной работы в одном подарочном наборе.",
     date: "15 октября 2026", iso: "2026-10-15", href: "https://t.me/dolcebiancogroup/902",
-    image: "/img/journal/sweet-gift.webp", alt: "Подарочная коробка со сладостями Dolce",
+    position: "50% 0%", image: "/img/journal/sweet-gift.webp", alt: "Подарочная коробка со сладостями Dolce",
   },
 ];
 
@@ -41,7 +41,7 @@ export function Journal() {
             <Reveal as="li" key={story.href} delay={i * 0.06}>
               <a href={story.href} target="_blank" rel="noopener noreferrer" className="group block">
                 <div className="relative aspect-[4/3] overflow-hidden rounded-2xl bg-mint-light">
-                  <Image src={story.image} alt={story.alt} fill sizes="(min-width: 1320px) 403px, (min-width: 768px) 33vw, 100vw" className="object-cover transition-transform duration-500 group-hover:scale-[1.03] motion-reduce:transition-none" />
+                  <Image src={story.image} alt={story.alt} style={{ objectPosition: story.position }} fill sizes="(min-width: 1320px) 403px, (min-width: 768px) 33vw, 100vw" className="object-cover transition-transform duration-500 group-hover:scale-[1.03] motion-reduce:transition-none" />
                 </div>
                 <time dateTime={story.iso} className="mt-5 block text-xs text-ink-soft">{story.date}</time>
                 <h3 className="mt-2 font-display text-2xl font-medium leading-tight group-hover:text-mint-deeper">{story.title}</h3>
