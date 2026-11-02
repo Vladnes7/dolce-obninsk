@@ -6,16 +6,16 @@
     "price": 400,
     "mark": "НОВИНКА",
     "short": "Чизкейк с томленным абрикосом на пористом миндальном бисквите с хрустящими крамболом",
-    "img": "/img/menu/chizkeik-s-abrikosom.jpg",
-    "img2": "/img/menu/chizkeik-s-abrikosom-2.jpg",
+    "img": "/img/menu/chizkeik-s-abrikosom.webp",
+    "img2": "/img/menu/chizkeik-s-abrikosom-2.webp",
     "composition": "яйцо, сахар, мука миндальная, масло сливочное 82.5 %, сыр каймак, сливки 33%, желатин, абрикос с/м",
     "photos": [
-      "/img/dish/chizkeik-s-abrikosom.jpg",
-      "/img/dish/chizkeik-s-abrikosom-2.jpg",
-      "/img/dish/chizkeik-s-abrikosom-3.jpg",
-      "/img/dish/chizkeik-s-abrikosom-4.jpg",
-      "/img/dish/chizkeik-s-abrikosom-5.jpg",
-      "/img/dish/chizkeik-s-abrikosom-6.jpg"
+      "/img/dish/chizkeik-s-abrikosom.webp",
+      "/img/dish/chizkeik-s-abrikosom-2.webp",
+      "/img/dish/chizkeik-s-abrikosom-3.webp",
+      "/img/dish/chizkeik-s-abrikosom-4.webp",
+      "/img/dish/chizkeik-s-abrikosom-5.webp",
+      "/img/dish/chizkeik-s-abrikosom-6.webp"
     ]
   },
   {
@@ -25,14 +25,14 @@
     "price": 400,
     "mark": "НОВИНКА",
     "short": "Изысканный десерт на основе сыра маскарпоне с пикантной горчинкой крепкого кофе, с ароматом какао и легким печенье савоярди.",
-    "img": "/img/menu/tiramisu.jpg",
-    "img2": "/img/menu/tiramisu-2.jpg",
+    "img": "/img/menu/tiramisu.webp",
+    "img2": "/img/menu/tiramisu-2.webp",
     "composition": "сахар, сыр маскарпоне, сливки 33%, яйцо, желатин, печенье савоярди, кофе молотый, какао",
     "photos": [
-      "/img/dish/tiramisu.jpg",
-      "/img/dish/tiramisu-2.jpg",
-      "/img/dish/tiramisu-3.jpg",
-      "/img/dish/tiramisu-4.jpg"
+      "/img/dish/tiramisu.webp",
+      "/img/dish/tiramisu-2.webp",
+      "/img/dish/tiramisu-3.webp",
+      "/img/dish/tiramisu-4.webp"
     ]
   },
   {
@@ -42,16 +42,16 @@
     "price": 380,
     "mark": "НОВИНКА",
     "short": "Гармония слоенного теста, нежного крема и сочной черники с лёгкой кислинкой",
-    "img": "/img/menu/napoleon-s-chernikoi.jpg",
-    "img2": "/img/menu/napoleon-s-chernikoi-2.jpg",
+    "img": "/img/menu/napoleon-s-chernikoi.webp",
+    "img2": "/img/menu/napoleon-s-chernikoi-2.webp",
     "composition": "тесто слоенное бездрожжевое, молоко, сгущенное молоко, мука, масло сливочное, желе черники",
     "photos": [
-      "/img/dish/napoleon-s-chernikoi.jpg",
-      "/img/dish/napoleon-s-chernikoi-2.jpg",
-      "/img/dish/napoleon-s-chernikoi-3.jpg",
-      "/img/dish/napoleon-s-chernikoi-4.jpg",
-      "/img/dish/napoleon-s-chernikoi-5.jpg",
-      "/img/dish/napoleon-s-chernikoi-6.jpg"
+      "/img/dish/napoleon-s-chernikoi.webp",
+      "/img/dish/napoleon-s-chernikoi-2.webp",
+      "/img/dish/napoleon-s-chernikoi-3.webp",
+      "/img/dish/napoleon-s-chernikoi-4.webp",
+      "/img/dish/napoleon-s-chernikoi-5.webp",
+      "/img/dish/napoleon-s-chernikoi-6.webp"
     ]
   },
   {
@@ -61,14 +61,14 @@
     "price": 410,
     "mark": "НОВИНКА",
     "short": "Этот десерт сочетание сочной ягоды и освежающей мяты с легким муссом из рикотты с хрустящей песочной крошкой.",
-    "img": "/img/menu/rikotta-s-myatoi-i-klubnikoi.jpg",
-    "img2": "/img/menu/rikotta-s-myatoi-i-klubnikoi-2.jpg",
+    "img": "/img/menu/rikotta-s-myatoi-i-klubnikoi.webp",
+    "img2": "/img/menu/rikotta-s-myatoi-i-klubnikoi-2.webp",
     "composition": "яйцо, сахар, мука миндальная, масло сливочное 82%, пюре из малины, пюре из личи, пюре из лайма, шоколад белый, сливки 33%, крахмал кукурузный, желатин",
     "photos": [
-      "/img/dish/rikotta-s-myatoi-i-klubnikoi.jpg",
-      "/img/dish/rikotta-s-myatoi-i-klubnikoi-2.jpg",
-      "/img/dish/rikotta-s-myatoi-i-klubnikoi-3.jpg",
-      "/img/dish/rikotta-s-myatoi-i-klubnikoi-4.jpg"
+      "/img/dish/rikotta-s-myatoi-i-klubnikoi.webp",
+      "/img/dish/rikotta-s-myatoi-i-klubnikoi-2.webp",
+      "/img/dish/rikotta-s-myatoi-i-klubnikoi-3.webp",
+      "/img/dish/rikotta-s-myatoi-i-klubnikoi-4.webp"
     ]
   },
   {
@@ -78,14 +78,14 @@
     "price": 420,
     "mark": "НОВИНКА",
     "short": "Мусс с сочетанием экзотических фруктов освежающими цитрусовыми нотами с малиной на пористом миндальном бисквите.",
-    "img": "/img/menu/malina-lichi-laim.jpg",
-    "img2": "/img/menu/malina-lichi-laim-2.jpg",
+    "img": "/img/menu/malina-lichi-laim.webp",
+    "img2": "/img/menu/malina-lichi-laim-2.webp",
     "composition": "яйцо, сахар, мука миндальная, масло сливочное 82%, пюре из малина, пюре из личи, пюре из лайма, шоколад белый, сливки 33%, крахмал кукурузный, желатин",
     "photos": [
-      "/img/dish/malina-lichi-laim.jpg",
-      "/img/dish/malina-lichi-laim-2.jpg",
-      "/img/dish/malina-lichi-laim-3.jpg",
-      "/img/dish/malina-lichi-laim-4.jpg"
+      "/img/dish/malina-lichi-laim.webp",
+      "/img/dish/malina-lichi-laim-2.webp",
+      "/img/dish/malina-lichi-laim-3.webp",
+      "/img/dish/malina-lichi-laim-4.webp"
     ]
   },
   {
@@ -94,9 +94,9 @@
     "section": "cakes",
     "price": 2040,
     "short": "Нежные медовые коржи в сочетании со сметанным кремом и хрустящим грильяжем из фундука.",
-    "img": "/img/menu/medovik-s-grilyazhem.jpg",
+    "img": "/img/menu/medovik-s-grilyazhem.webp",
     "photos": [
-      "/img/dish/medovik-s-grilyazhem.jpg"
+      "/img/dish/medovik-s-grilyazhem.webp"
     ]
   },
   {
@@ -116,8 +116,8 @@
         "price": 2640
       }
     ],
-    "img": "/img/menu/dubaiskii-chizkeik.jpg",
-    "img2": "/img/menu/dubaiskii-chizkeik-2.jpg",
+    "img": "/img/menu/dubaiskii-chizkeik.webp",
+    "img2": "/img/menu/dubaiskii-chizkeik-2.webp",
     "nutrition": {
       "kcal": "395,1",
       "protein": "6,7",
@@ -125,8 +125,8 @@
       "carbs": "31,7"
     },
     "photos": [
-      "/img/dish/dubaiskii-chizkeik.jpg",
-      "/img/dish/dubaiskii-chizkeik-2.jpg"
+      "/img/dish/dubaiskii-chizkeik.webp",
+      "/img/dish/dubaiskii-chizkeik-2.webp"
     ]
   },
   {
@@ -137,7 +137,7 @@
     "mark": "945 г",
     "short": "Пленящий торт из сочетания шоколадного и белкового бисквита с фундуком с прослойкой сливочным кремом с добвалением  фундука и малинового желе. Покрыт малиновым взбитым курдом.",
     "kcal": "361.2",
-    "img": "/img/menu/tort-selfie-mini.jpg",
+    "img": "/img/menu/tort-selfie-mini.webp",
     "nutrition": {
       "kcal": "361,2",
       "protein": "6,6",
@@ -145,7 +145,7 @@
       "carbs": "29,8"
     },
     "photos": [
-      "/img/dish/tort-selfie-mini.jpg"
+      "/img/dish/tort-selfie-mini.webp"
     ]
   },
   {
@@ -166,8 +166,8 @@
       }
     ],
     "limited": true,
-    "img": "/img/menu/tort-morkovnii-s-karamelnim-sousom.jpg",
-    "img2": "/img/menu/tort-morkovnii-s-karamelnim-sousom-2.jpg",
+    "img": "/img/menu/tort-morkovnii-s-karamelnim-sousom.webp",
+    "img2": "/img/menu/tort-morkovnii-s-karamelnim-sousom-2.webp",
     "nutrition": {
       "kcal": "330,9",
       "protein": "4,3",
@@ -175,8 +175,8 @@
       "carbs": "29,7"
     },
     "photos": [
-      "/img/dish/tort-morkovnii-s-karamelnim-sousom.jpg",
-      "/img/dish/tort-morkovnii-s-karamelnim-sousom-2.jpg"
+      "/img/dish/tort-morkovnii-s-karamelnim-sousom.webp",
+      "/img/dish/tort-morkovnii-s-karamelnim-sousom-2.webp"
     ]
   },
   {
@@ -198,8 +198,8 @@
       }
     ],
     "limited": true,
-    "img": "/img/menu/tort-anyuta.jpg",
-    "img2": "/img/menu/tort-anyuta-2.jpg",
+    "img": "/img/menu/tort-anyuta.webp",
+    "img2": "/img/menu/tort-anyuta-2.webp",
     "nutrition": {
       "kcal": "351",
       "protein": "6,7",
@@ -207,8 +207,8 @@
       "carbs": "33,5"
     },
     "photos": [
-      "/img/dish/tort-anyuta.jpg",
-      "/img/dish/tort-anyuta-2.jpg"
+      "/img/dish/tort-anyuta.webp",
+      "/img/dish/tort-anyuta-2.webp"
     ]
   },
   {
@@ -219,7 +219,7 @@
     "mark": "980 г",
     "short": "Классический бисквитный торт с кремом маскарпоне, украшенный ягодами, подойдёт для всей семьи.",
     "kcal": "277.6",
-    "img": "/img/menu/tort-bambini.jpg",
+    "img": "/img/menu/tort-bambini.webp",
     "nutrition": {
       "kcal": "277,6",
       "protein": "6,9",
@@ -227,7 +227,7 @@
       "carbs": "26,7"
     },
     "photos": [
-      "/img/dish/tort-bambini.jpg"
+      "/img/dish/tort-bambini.webp"
     ]
   },
   {
@@ -249,7 +249,7 @@
       }
     ],
     "limited": true,
-    "img": "/img/menu/tort-mango-marakuiya.jpg",
+    "img": "/img/menu/tort-mango-marakuiya.webp",
     "nutrition": {
       "kcal": "281,7",
       "protein": "4,4",
@@ -257,7 +257,7 @@
       "carbs": "31,8"
     },
     "photos": [
-      "/img/dish/tort-mango-marakuiya.jpg"
+      "/img/dish/tort-mango-marakuiya.webp"
     ]
   },
   {
@@ -268,8 +268,8 @@
     "mark": "730 г",
     "short": "Воздушное сливочное суфле с добавлением натурального пюре манго, маракуйи и спелых ягод малины на классическом бисквите.",
     "kcal": "283.2",
-    "img": "/img/menu/tort-mango-marakuiya-mini.jpg",
-    "img2": "/img/menu/tort-mango-marakuiya-mini-2.jpg",
+    "img": "/img/menu/tort-mango-marakuiya-mini.webp",
+    "img2": "/img/menu/tort-mango-marakuiya-mini-2.webp",
     "nutrition": {
       "kcal": "283,2",
       "protein": "4,3",
@@ -277,8 +277,8 @@
       "carbs": "30,6"
     },
     "photos": [
-      "/img/dish/tort-mango-marakuiya-mini.jpg",
-      "/img/dish/tort-mango-marakuiya-mini-2.jpg"
+      "/img/dish/tort-mango-marakuiya-mini.webp",
+      "/img/dish/tort-mango-marakuiya-mini-2.webp"
     ]
   },
   {
@@ -300,7 +300,7 @@
       }
     ],
     "limited": true,
-    "img": "/img/menu/tort-makovii.jpg",
+    "img": "/img/menu/tort-makovii.webp",
     "nutrition": {
       "kcal": "371,1",
       "protein": "3,9",
@@ -308,7 +308,7 @@
       "carbs": "29,3"
     },
     "photos": [
-      "/img/dish/tort-makovii.jpg"
+      "/img/dish/tort-makovii.webp"
     ]
   },
   {
@@ -330,8 +330,8 @@
       }
     ],
     "limited": true,
-    "img": "/img/menu/tort-mindalnii.jpg",
-    "img2": "/img/menu/tort-mindalnii-2.jpg",
+    "img": "/img/menu/tort-mindalnii.webp",
+    "img2": "/img/menu/tort-mindalnii-2.webp",
     "nutrition": {
       "kcal": "382,4",
       "protein": "8,4",
@@ -339,8 +339,8 @@
       "carbs": "26,3"
     },
     "photos": [
-      "/img/dish/tort-mindalnii.jpg",
-      "/img/dish/tort-mindalnii-2.jpg"
+      "/img/dish/tort-mindalnii.webp",
+      "/img/dish/tort-mindalnii-2.webp"
     ]
   },
   {
@@ -362,7 +362,7 @@
       }
     ],
     "limited": true,
-    "img": "/img/menu/tort-praga.jpg",
+    "img": "/img/menu/tort-praga.webp",
     "nutrition": {
       "kcal": "361,6",
       "protein": "5,7",
@@ -370,7 +370,7 @@
       "carbs": "38,8"
     },
     "photos": [
-      "/img/dish/tort-praga.jpg"
+      "/img/dish/tort-praga.webp"
     ]
   },
   {
@@ -381,8 +381,8 @@
     "mark": "950 г",
     "short": "Шоколадный бисквит, прослоенный сливочно-шоколадным кремом с добавлением абрикосового джема.",
     "kcal": "360.2",
-    "img": "/img/menu/tort-praga-mini.jpg",
-    "img2": "/img/menu/tort-praga-mini-2.jpg",
+    "img": "/img/menu/tort-praga-mini.webp",
+    "img2": "/img/menu/tort-praga-mini-2.webp",
     "nutrition": {
       "kcal": "360,2",
       "protein": "5,4",
@@ -390,8 +390,8 @@
       "carbs": "38,8"
     },
     "photos": [
-      "/img/dish/tort-praga-mini.jpg",
-      "/img/dish/tort-praga-mini-2.jpg"
+      "/img/dish/tort-praga-mini.webp",
+      "/img/dish/tort-praga-mini-2.webp"
     ]
   },
   {
@@ -413,8 +413,8 @@
       }
     ],
     "limited": true,
-    "img": "/img/menu/tort-smetannik.jpg",
-    "img2": "/img/menu/tort-smetannik-2.jpg",
+    "img": "/img/menu/tort-smetannik.webp",
+    "img2": "/img/menu/tort-smetannik-2.webp",
     "nutrition": {
       "kcal": "363,9",
       "protein": "5,7",
@@ -422,8 +422,8 @@
       "carbs": "36,2"
     },
     "photos": [
-      "/img/dish/tort-smetannik.jpg",
-      "/img/dish/tort-smetannik-2.jpg"
+      "/img/dish/tort-smetannik.webp",
+      "/img/dish/tort-smetannik-2.webp"
     ]
   },
   {
@@ -445,8 +445,8 @@
       }
     ],
     "limited": true,
-    "img": "/img/menu/tort-finanse-s-chyornoi-smorodinoi-i-klu.jpg",
-    "img2": "/img/menu/tort-finanse-s-chyornoi-smorodinoi-i-klu-2.jpg",
+    "img": "/img/menu/tort-finanse-s-chyornoi-smorodinoi-i-klu.webp",
+    "img2": "/img/menu/tort-finanse-s-chyornoi-smorodinoi-i-klu-2.webp",
     "nutrition": {
       "kcal": "297,9",
       "protein": "5,4",
@@ -454,8 +454,8 @@
       "carbs": "28,1"
     },
     "photos": [
-      "/img/dish/tort-finanse-s-chyornoi-smorodinoi-i-klu.jpg",
-      "/img/dish/tort-finanse-s-chyornoi-smorodinoi-i-klu-2.jpg"
+      "/img/dish/tort-finanse-s-chyornoi-smorodinoi-i-klu.webp",
+      "/img/dish/tort-finanse-s-chyornoi-smorodinoi-i-klu-2.webp"
     ]
   },
   {
@@ -477,8 +477,8 @@
       }
     ],
     "limited": true,
-    "img": "/img/menu/chizkeik-klassicheskii.jpg",
-    "img2": "/img/menu/chizkeik-klassicheskii-2.jpg",
+    "img": "/img/menu/chizkeik-klassicheskii.webp",
+    "img2": "/img/menu/chizkeik-klassicheskii-2.webp",
     "nutrition": {
       "kcal": "323,8",
       "protein": "6,8",
@@ -486,8 +486,8 @@
       "carbs": "28,4"
     },
     "photos": [
-      "/img/dish/chizkeik-klassicheskii.jpg",
-      "/img/dish/chizkeik-klassicheskii-2.jpg"
+      "/img/dish/chizkeik-klassicheskii.webp",
+      "/img/dish/chizkeik-klassicheskii-2.webp"
     ]
   },
   {
@@ -509,8 +509,8 @@
       }
     ],
     "limited": true,
-    "img": "/img/menu/tort-moskva.jpg",
-    "img2": "/img/menu/tort-moskva-2.jpg",
+    "img": "/img/menu/tort-moskva.webp",
+    "img2": "/img/menu/tort-moskva-2.webp",
     "nutrition": {
       "kcal": "288,9",
       "protein": "9,1",
@@ -518,8 +518,8 @@
       "carbs": "32,1"
     },
     "photos": [
-      "/img/dish/tort-moskva.jpg",
-      "/img/dish/tort-moskva-2.jpg"
+      "/img/dish/tort-moskva.webp",
+      "/img/dish/tort-moskva-2.webp"
     ]
   },
   {
@@ -528,11 +528,11 @@
     "section": "desserts",
     "price": 310,
     "short": "В тонком шоколадном корпусе нежный мусс крем‑брюле, а внутри сочная вишнёвая начинка и лёгкая хрустящая крошка из шоколада и вафли, которая добавляет яркий контраст текстур.",
-    "img": "/img/menu/pirozhnoe-tikva.jpg",
-    "img2": "/img/menu/pirozhnoe-tikva-2.jpg",
+    "img": "/img/menu/pirozhnoe-tikva.webp",
+    "img2": "/img/menu/pirozhnoe-tikva-2.webp",
     "photos": [
-      "/img/dish/pirozhnoe-tikva.jpg",
-      "/img/dish/pirozhnoe-tikva-2.jpg"
+      "/img/dish/pirozhnoe-tikva.webp",
+      "/img/dish/pirozhnoe-tikva-2.webp"
     ]
   },
   {
@@ -541,12 +541,12 @@
     "section": "desserts",
     "price": 390,
     "short": "Мусс в основе белый шоколад со сливками с добавлением клинового сиропа. С начинкой из соленой карамели и грильяжа из грецкого ореха с песочной крошкой. Покрыт флокажом из молочного шоколада.",
-    "img": "/img/menu/pirozhnoe-gretskii-oreh.jpg",
-    "img2": "/img/menu/pirozhnoe-gretskii-oreh-2.jpg",
+    "img": "/img/menu/pirozhnoe-gretskii-oreh.webp",
+    "img2": "/img/menu/pirozhnoe-gretskii-oreh-2.webp",
     "composition": "шоколад белый, сливки 38%, желатин , кленовый сироп , грецкий орех, масло сливочное 72%, глюкоза, сахар, соль, мука пшеничная, какао масло, шоколад молочный",
     "photos": [
-      "/img/dish/pirozhnoe-gretskii-oreh.jpg",
-      "/img/dish/pirozhnoe-gretskii-oreh-2.jpg"
+      "/img/dish/pirozhnoe-gretskii-oreh.webp",
+      "/img/dish/pirozhnoe-gretskii-oreh-2.webp"
     ]
   },
   {
@@ -555,12 +555,12 @@
     "section": "desserts",
     "price": 430,
     "short": "Мусс в основе сыра каймак с добавлением грушевого пюре. С томленной грушей и шоколадной вафельной крошкой на песочно- фундучной подложке.",
-    "img": "/img/menu/grushevii-chizkeik.jpg",
-    "img2": "/img/menu/grushevii-chizkeik-2.jpg",
+    "img": "/img/menu/grushevii-chizkeik.webp",
+    "img2": "/img/menu/grushevii-chizkeik-2.webp",
     "composition": "пюре грушевое, груша, сахар, желатин, сыр каймак, сливки 38%, сок лимона, орех фундук, мука пшеничная, масло сливочное 82%, шоколад черный, вафельная крошка, какао масло, арахис лепестки",
     "photos": [
-      "/img/dish/grushevii-chizkeik.jpg",
-      "/img/dish/grushevii-chizkeik-2.jpg"
+      "/img/dish/grushevii-chizkeik.webp",
+      "/img/dish/grushevii-chizkeik-2.webp"
     ]
   },
   {
@@ -570,8 +570,8 @@
     "price": 350,
     "short": "Сливочно-заварной крем с прослойкой из белкового суфле с добавлением арахисовой пасты на шоколадно-кофейном бисквите.",
     "kcal": "303.1",
-    "img": "/img/menu/pirozhnoe-ballerina-cappuccino.jpg",
-    "img2": "/img/menu/pirozhnoe-ballerina-cappuccino-2.jpg",
+    "img": "/img/menu/pirozhnoe-ballerina-cappuccino.webp",
+    "img2": "/img/menu/pirozhnoe-ballerina-cappuccino-2.webp",
     "nutrition": {
       "kcal": "303,1",
       "protein": "4,6",
@@ -579,8 +579,8 @@
       "carbs": "31,8"
     },
     "photos": [
-      "/img/dish/pirozhnoe-ballerina-cappuccino.jpg",
-      "/img/dish/pirozhnoe-ballerina-cappuccino-2.jpg"
+      "/img/dish/pirozhnoe-ballerina-cappuccino.webp",
+      "/img/dish/pirozhnoe-ballerina-cappuccino-2.webp"
     ]
   },
   {
@@ -589,9 +589,9 @@
     "section": "desserts",
     "price": 370,
     "short": "Воздушный кокосовый мусс на белом шоколаде, насыщенное брусничное конфи и хрустящий сырный крамбл - три контрастных слоя на основе кокосового бисквита, которые сливаются в незабываемый вкус.",
-    "img": "/img/menu/pirozhnoe-brusnika.jpg",
+    "img": "/img/menu/pirozhnoe-brusnika.webp",
     "photos": [
-      "/img/dish/pirozhnoe-brusnika.jpg"
+      "/img/dish/pirozhnoe-brusnika.webp"
     ]
   },
   {
@@ -601,8 +601,8 @@
     "price": 390,
     "short": "Пирожное пломбир-чиз с земляничным конфи с хрустящей миндально вафельной крошкой глазирован шоколадом.",
     "kcal": "296",
-    "img": "/img/menu/pirozhnoe-zemlyanichnii-kapriz.jpg",
-    "img2": "/img/menu/pirozhnoe-zemlyanichnii-kapriz-2.jpg",
+    "img": "/img/menu/pirozhnoe-zemlyanichnii-kapriz.webp",
+    "img2": "/img/menu/pirozhnoe-zemlyanichnii-kapriz-2.webp",
     "nutrition": {
       "kcal": "296.3",
       "protein": "4.7",
@@ -610,9 +610,9 @@
       "carbs": "16.4"
     },
     "photos": [
-      "/img/dish/pirozhnoe-zemlyanichnii-kapriz.jpg",
-      "/img/dish/pirozhnoe-zemlyanichnii-kapriz-2.jpg",
-      "/img/dish/pirozhnoe-zemlyanichnii-kapriz-3.jpg"
+      "/img/dish/pirozhnoe-zemlyanichnii-kapriz.webp",
+      "/img/dish/pirozhnoe-zemlyanichnii-kapriz-2.webp",
+      "/img/dish/pirozhnoe-zemlyanichnii-kapriz-3.webp"
     ]
   },
   {
@@ -624,8 +624,8 @@
     "short": "Нежный чизкейк с легкой нотой базилика во вкусе с фисташковой капсулой и жидкой клубничной начинкой в центре.",
     "kcal": "381.9",
     "limited": true,
-    "img": "/img/menu/desert-bloom.jpg",
-    "img2": "/img/menu/desert-bloom-2.jpg",
+    "img": "/img/menu/desert-bloom.webp",
+    "img2": "/img/menu/desert-bloom-2.webp",
     "nutrition": {
       "kcal": "381,9",
       "protein": "5,2",
@@ -633,8 +633,8 @@
       "carbs": "19,8"
     },
     "photos": [
-      "/img/dish/desert-bloom.jpg",
-      "/img/dish/desert-bloom-2.jpg"
+      "/img/dish/desert-bloom.webp",
+      "/img/dish/desert-bloom-2.webp"
     ]
   },
   {
@@ -646,7 +646,7 @@
     "short": "Песочная тарталетка с пюре маракуйи и меренгой",
     "kcal": "373",
     "limited": true,
-    "img": "/img/menu/tartaletka-marakuiya.jpg",
+    "img": "/img/menu/tartaletka-marakuiya.webp",
     "nutrition": {
       "kcal": "373",
       "protein": "4,2",
@@ -654,7 +654,7 @@
       "carbs": "57,5"
     },
     "photos": [
-      "/img/dish/tartaletka-marakuiya.jpg"
+      "/img/dish/tartaletka-marakuiya.webp"
     ]
   },
   {
@@ -666,7 +666,7 @@
     "short": "Две половинки тающего безе, прослоенных миндальным кремом",
     "kcal": "364.3",
     "limited": true,
-    "img": "/img/menu/beze-mindalnoe-s-kremom.jpg",
+    "img": "/img/menu/beze-mindalnoe-s-kremom.webp",
     "nutrition": {
       "kcal": "364,3",
       "protein": "5,4",
@@ -674,7 +674,7 @@
       "carbs": "35,3"
     },
     "photos": [
-      "/img/dish/beze-mindalnoe-s-kremom.jpg"
+      "/img/dish/beze-mindalnoe-s-kremom.webp"
     ]
   },
   {
@@ -686,7 +686,7 @@
     "short": "Заварное тесто с легким заварным кремом",
     "kcal": "325.2",
     "limited": true,
-    "img": "/img/menu/bulochki-zavarnie-so-slivochnim-kremom.jpg",
+    "img": "/img/menu/bulochki-zavarnie-so-slivochnim-kremom.webp",
     "nutrition": {
       "kcal": "325,2",
       "protein": "5,0",
@@ -694,7 +694,7 @@
       "carbs": "27,5"
     },
     "photos": [
-      "/img/dish/bulochki-zavarnie-so-slivochnim-kremom.jpg"
+      "/img/dish/bulochki-zavarnie-so-slivochnim-kremom.webp"
     ]
   },
   {
@@ -705,8 +705,8 @@
     "mark": "480 г",
     "short": "Лёгкий десерт из нежной меренги с кремом маскарпоне и украшением из свежих ягод",
     "kcal": "296.2",
-    "img": "/img/menu/merengovii-rulet.jpg",
-    "img2": "/img/menu/merengovii-rulet-2.jpg",
+    "img": "/img/menu/merengovii-rulet.webp",
+    "img2": "/img/menu/merengovii-rulet-2.webp",
     "nutrition": {
       "kcal": "296,2",
       "protein": "5,2",
@@ -714,8 +714,8 @@
       "carbs": "34,6"
     },
     "photos": [
-      "/img/dish/merengovii-rulet.jpg",
-      "/img/dish/merengovii-rulet-2.jpg"
+      "/img/dish/merengovii-rulet.webp",
+      "/img/dish/merengovii-rulet-2.webp"
     ]
   },
   {
@@ -743,7 +743,7 @@
     "short": "Песочная корзинка с заварным кремом и ягодами голубики",
     "kcal": "237.9",
     "limited": true,
-    "img": "/img/menu/tartaletka-s-golubikoi-mini.jpg",
+    "img": "/img/menu/tartaletka-s-golubikoi-mini.webp",
     "nutrition": {
       "kcal": "237,9",
       "protein": "3,2",
@@ -751,7 +751,7 @@
       "carbs": "28,7"
     },
     "photos": [
-      "/img/dish/tartaletka-s-golubikoi-mini.jpg"
+      "/img/dish/tartaletka-s-golubikoi-mini.webp"
     ]
   },
   {
@@ -763,7 +763,7 @@
     "short": "Песочная корзинка с заварным кремом и клубникой",
     "kcal": "264.3",
     "limited": true,
-    "img": "/img/menu/tartaletka-s-klubnikoi-mini.jpg",
+    "img": "/img/menu/tartaletka-s-klubnikoi-mini.webp",
     "nutrition": {
       "kcal": "264,3",
       "protein": "5,2",
@@ -771,7 +771,7 @@
       "carbs": "27,6"
     },
     "photos": [
-      "/img/dish/tartaletka-s-klubnikoi-mini.jpg"
+      "/img/dish/tartaletka-s-klubnikoi-mini.webp"
     ]
   },
   {
@@ -784,8 +784,8 @@
     "kcal": "392.7",
     "vegan": true,
     "limited": true,
-    "img": "/img/menu/tartaletka-orehovaya.jpg",
-    "img2": "/img/menu/tartaletka-orehovaya-2.jpg",
+    "img": "/img/menu/tartaletka-orehovaya.webp",
+    "img2": "/img/menu/tartaletka-orehovaya-2.webp",
     "nutrition": {
       "kcal": "392,7",
       "protein": "9,1",
@@ -793,8 +793,8 @@
       "carbs": "40,1"
     },
     "photos": [
-      "/img/dish/tartaletka-orehovaya.jpg",
-      "/img/dish/tartaletka-orehovaya-2.jpg"
+      "/img/dish/tartaletka-orehovaya.webp",
+      "/img/dish/tartaletka-orehovaya-2.webp"
     ]
   },
   {
@@ -806,8 +806,8 @@
     "short": "Эклер с ванильным кремом из взбитых сливок",
     "kcal": "334.5",
     "limited": true,
-    "img": "/img/menu/ekler-s-vanilnim-kremom.jpg",
-    "img2": "/img/menu/ekler-s-vanilnim-kremom-2.jpg",
+    "img": "/img/menu/ekler-s-vanilnim-kremom.webp",
+    "img2": "/img/menu/ekler-s-vanilnim-kremom-2.webp",
     "nutrition": {
       "kcal": "334,5",
       "protein": "7,4",
@@ -815,8 +815,8 @@
       "carbs": "36,3"
     },
     "photos": [
-      "/img/dish/ekler-s-vanilnim-kremom.jpg",
-      "/img/dish/ekler-s-vanilnim-kremom-2.jpg"
+      "/img/dish/ekler-s-vanilnim-kremom.webp",
+      "/img/dish/ekler-s-vanilnim-kremom-2.webp"
     ]
   },
   {
@@ -828,7 +828,7 @@
     "short": "Эклер с шоколадным кремом со взбитыми сливками",
     "kcal": "350.1",
     "limited": true,
-    "img": "/img/menu/ekler-s-shokoladnim-kremom.jpg",
+    "img": "/img/menu/ekler-s-shokoladnim-kremom.webp",
     "nutrition": {
       "kcal": "350,1",
       "protein": "7,4",
@@ -836,7 +836,7 @@
       "carbs": "25,8"
     },
     "photos": [
-      "/img/dish/ekler-s-shokoladnim-kremom.jpg"
+      "/img/dish/ekler-s-shokoladnim-kremom.webp"
     ]
   },
   {
@@ -848,8 +848,8 @@
     "short": "Заварное тесто с нежным заварным кремом, со взбитыми сливками с добавлением арахисовых лепестков и фисташек. Покрыт сахарной помадкой.",
     "kcal": "316.7",
     "limited": true,
-    "img": "/img/menu/ekler-fistashkovii.jpg",
-    "img2": "/img/menu/ekler-fistashkovii-2.jpg",
+    "img": "/img/menu/ekler-fistashkovii.webp",
+    "img2": "/img/menu/ekler-fistashkovii-2.webp",
     "nutrition": {
       "kcal": "316,7",
       "protein": "7,2",
@@ -857,8 +857,8 @@
       "carbs": "31,5"
     },
     "photos": [
-      "/img/dish/ekler-fistashkovii.jpg",
-      "/img/dish/ekler-fistashkovii-2.jpg"
+      "/img/dish/ekler-fistashkovii.webp",
+      "/img/dish/ekler-fistashkovii-2.webp"
     ]
   },
   {
@@ -870,8 +870,8 @@
     "short": "Горький шоколад с легкой кайенской перчинкой в сочетании с малиновым конфи и ореховой хрустиной на шоколадном бисквите.",
     "kcal": "411.1",
     "limited": true,
-    "img": "/img/menu/amore.jpg",
-    "img2": "/img/menu/amore-2.jpg",
+    "img": "/img/menu/amore.webp",
+    "img2": "/img/menu/amore-2.webp",
     "nutrition": {
       "kcal": "411,1",
       "protein": "5,6",
@@ -879,8 +879,8 @@
       "carbs": "26,4"
     },
     "photos": [
-      "/img/dish/amore.jpg",
-      "/img/dish/amore-2.jpg"
+      "/img/dish/amore.webp",
+      "/img/dish/amore-2.webp"
     ]
   },
   {
@@ -892,7 +892,7 @@
     "short": "Фисташково-меренговый бисквит",
     "kcal": "354.7",
     "limited": true,
-    "img": "/img/menu/fistashkovii-rulet.jpg",
+    "img": "/img/menu/fistashkovii-rulet.webp",
     "nutrition": {
       "kcal": "354,7",
       "protein": "10",
@@ -900,7 +900,7 @@
       "carbs": "26,6"
     },
     "photos": [
-      "/img/dish/fistashkovii-rulet.jpg"
+      "/img/dish/fistashkovii-rulet.webp"
     ]
   },
   {
@@ -913,7 +913,7 @@
     "kcal": "339.1",
     "vegan": true,
     "limited": true,
-    "img": "/img/menu/shtrudel-yablochnii.jpg",
+    "img": "/img/menu/shtrudel-yablochnii.webp",
     "nutrition": {
       "kcal": "339,1",
       "protein": "3,5",
@@ -921,7 +921,7 @@
       "carbs": "44,1"
     },
     "photos": [
-      "/img/dish/shtrudel-yablochnii.jpg"
+      "/img/dish/shtrudel-yablochnii.webp"
     ]
   },
   {
@@ -931,9 +931,9 @@
     "price": 790,
     "mark": "NEW",
     "short": "Уникальный сувенир из наукограда Обнинск — конфеты ручной работы, вдохновлённые историей города мирного атома.",
-    "img": "/img/menu/konfeti-atom.jpg",
+    "img": "/img/menu/konfeti-atom.webp",
     "photos": [
-      "/img/dish/konfeti-atom.jpg"
+      "/img/dish/konfeti-atom.webp"
     ]
   },
   {
@@ -943,9 +943,9 @@
     "price": 1490,
     "mark": "New",
     "short": "Идеальный подарок для самых искушенных - это набор кондитерских изделий ручной работы. В набор входит:",
-    "img": "/img/menu/podarochnii-nabor-s-shokoladom-pechenem.jpg",
+    "img": "/img/menu/podarochnii-nabor-s-shokoladom-pechenem.webp",
     "photos": [
-      "/img/dish/podarochnii-nabor-s-shokoladom-pechenem.jpg"
+      "/img/dish/podarochnii-nabor-s-shokoladom-pechenem.webp"
     ]
   },
   {
@@ -956,7 +956,7 @@
     "mark": "272 г",
     "short": "Авторские конфеты ручной работы, выполненные из лучших ингредиентов",
     "kcal": "506.2",
-    "img": "/img/menu/nabor-konfet-1.jpg",
+    "img": "/img/menu/nabor-konfet-1.webp",
     "full": [
       "Авторские конфеты ручной работы, выполненные из лучших ингредиентов",
       "Трюфель с воздушным рисом (4 шт.), трюфель лимонный (4шт.), трюфель ромео (4 шт.), трюфель с крошкой из белого шоколада (4 шт.)."
@@ -968,7 +968,7 @@
       "carbs": "41,1"
     },
     "photos": [
-      "/img/dish/nabor-konfet-1.jpg"
+      "/img/dish/nabor-konfet-1.webp"
     ]
   },
   {
@@ -979,7 +979,7 @@
     "mark": "278 г",
     "short": "Авторские конфеты ручной работы, выполненные из лучших ингредиентов",
     "kcal": "493",
-    "img": "/img/menu/nabor-konfet-3.jpg",
+    "img": "/img/menu/nabor-konfet-3.webp",
     "full": [
       "Авторские конфеты ручной работы, выполненные из лучших ингредиентов.",
       "Конфета с марципановой начинкой (3 шт.), трюфель классический (4 шт.), трюфель ромео (4 шт.), трюфель ром (4 шт.)."
@@ -991,7 +991,7 @@
       "carbs": "38,9"
     },
     "photos": [
-      "/img/dish/nabor-konfet-3.jpg"
+      "/img/dish/nabor-konfet-3.webp"
     ]
   },
   {
@@ -1002,7 +1002,7 @@
     "mark": "порция 50 г",
     "short": "Классичсеский бисквит с заварным кремом с добавлением изюма, лепестков арахиса и кокосовой стружки",
     "kcal": "371",
-    "img": "/img/menu/biskvitnie-shariki-s-izyumom-i-mindalem.jpg",
+    "img": "/img/menu/biskvitnie-shariki-s-izyumom-i-mindalem.webp",
     "nutrition": {
       "kcal": "371",
       "protein": "7,5",
@@ -1010,7 +1010,7 @@
       "carbs": "33,3"
     },
     "photos": [
-      "/img/dish/biskvitnie-shariki-s-izyumom-i-mindalem.jpg"
+      "/img/dish/biskvitnie-shariki-s-izyumom-i-mindalem.webp"
     ]
   },
   {
@@ -1021,7 +1021,7 @@
     "mark": "25 г",
     "short": "марципановая конфета с нежной шоколадной начинкой, покрытая шоколадной оболочкой и цельным миндалем",
     "kcal": "520.8",
-    "img": "/img/menu/konfeta-martsipanovaya-s-shokoladnoi-nac.jpg",
+    "img": "/img/menu/konfeta-martsipanovaya-s-shokoladnoi-nac.webp",
     "nutrition": {
       "kcal": "520,8",
       "protein": "11",
@@ -1029,7 +1029,7 @@
       "carbs": "42,4"
     },
     "photos": [
-      "/img/dish/konfeta-martsipanovaya-s-shokoladnoi-nac.jpg"
+      "/img/dish/konfeta-martsipanovaya-s-shokoladnoi-nac.webp"
     ]
   },
   {
@@ -1040,7 +1040,7 @@
     "mark": "25 г",
     "short": "Миндальное безе с молочным шоколадом",
     "kcal": "468",
-    "img": "/img/menu/konfeta-s-mindalnim-beze.jpg",
+    "img": "/img/menu/konfeta-s-mindalnim-beze.webp",
     "nutrition": {
       "kcal": "468",
       "protein": "10,5",
@@ -1048,7 +1048,7 @@
       "carbs": "40,3"
     },
     "photos": [
-      "/img/dish/konfeta-s-mindalnim-beze.jpg"
+      "/img/dish/konfeta-s-mindalnim-beze.webp"
     ]
   },
   {
@@ -1059,7 +1059,7 @@
     "mark": "15 г",
     "short": "Нежная начинка из ганаша, приготовленного по классической рецептуре с использованием натуральных сливок и отборного шоколада, покрыта тонкой шоколадной глазурью и какао.",
     "kcal": "476.6",
-    "img": "/img/menu/konfeta-tryufel.jpg",
+    "img": "/img/menu/konfeta-tryufel.webp",
     "nutrition": {
       "kcal": "476,6",
       "protein": "9,7",
@@ -1067,7 +1067,7 @@
       "carbs": "34,9"
     },
     "photos": [
-      "/img/dish/konfeta-tryufel.jpg"
+      "/img/dish/konfeta-tryufel.webp"
     ]
   },
   {
@@ -1078,8 +1078,8 @@
     "mark": "19 г",
     "short": "Печенье из миндальной муки с различными начинками",
     "kcal": "414.5",
-    "img": "/img/menu/makaroni.jpg",
-    "img2": "/img/menu/makaroni-2.jpg",
+    "img": "/img/menu/makaroni.webp",
+    "img2": "/img/menu/makaroni-2.webp",
     "weightNote": "19 г",
     "nutrition": {
       "kcal": "414,5",
@@ -1088,8 +1088,8 @@
       "carbs": "45,4"
     },
     "photos": [
-      "/img/dish/makaroni.jpg",
-      "/img/dish/makaroni-2.jpg"
+      "/img/dish/makaroni.webp",
+      "/img/dish/makaroni-2.webp"
     ]
   },
   {
@@ -1100,7 +1100,7 @@
     "mark": "25 г",
     "short": "Печенье из миндальной муки с различными начинками.",
     "kcal": "327",
-    "img": "/img/menu/pechene-irlandskoe.jpg",
+    "img": "/img/menu/pechene-irlandskoe.webp",
     "full": [
       "Печенье из миндальной муки с различными начинками. Вес: 25 г"
     ],
@@ -1111,7 +1111,7 @@
       "carbs": "61"
     },
     "photos": [
-      "/img/dish/pechene-irlandskoe.jpg"
+      "/img/dish/pechene-irlandskoe.webp"
     ]
   },
   {
@@ -1122,7 +1122,7 @@
     "mark": "40 г",
     "short": "Легкое и вкусное печенье с овсяными хлопьями, изюмом, курагой и цукатами",
     "kcal": "340",
-    "img": "/img/menu/pechene-fitnes.jpg",
+    "img": "/img/menu/pechene-fitnes.webp",
     "nutrition": {
       "kcal": "340",
       "protein": "7",
@@ -1130,7 +1130,7 @@
       "carbs": "56,7"
     },
     "photos": [
-      "/img/dish/pechene-fitnes.jpg"
+      "/img/dish/pechene-fitnes.webp"
     ]
   },
   {
@@ -1141,7 +1141,7 @@
     "mark": "60 г",
     "short": "Печенье из миндальной муки с различными начинками.",
     "kcal": "396.5",
-    "img": "/img/menu/pechene-s-abrikosovim-dzhemom-i-arahisom.jpg",
+    "img": "/img/menu/pechene-s-abrikosovim-dzhemom-i-arahisom.webp",
     "nutrition": {
       "kcal": "396,5",
       "protein": "9,3",
@@ -1149,7 +1149,7 @@
       "carbs": "42,9"
     },
     "photos": [
-      "/img/dish/pechene-s-abrikosovim-dzhemom-i-arahisom.jpg"
+      "/img/dish/pechene-s-abrikosovim-dzhemom-i-arahisom.webp"
     ]
   },
   {
@@ -1159,7 +1159,7 @@
     "price": 70,
     "mark": "12 г",
     "kcal": "502.9",
-    "img": "/img/menu/pechene-s-shokoladom-i-gretskim-orehom.jpg",
+    "img": "/img/menu/pechene-s-shokoladom-i-gretskim-orehom.webp",
     "nutrition": {
       "kcal": "502,9",
       "protein": "9,2",
@@ -1167,7 +1167,7 @@
       "carbs": "54,8"
     },
     "photos": [
-      "/img/dish/pechene-s-shokoladom-i-gretskim-orehom.jpg"
+      "/img/dish/pechene-s-shokoladom-i-gretskim-orehom.webp"
     ]
   },
   {
@@ -1178,7 +1178,7 @@
     "mark": "170 г",
     "short": "Эстетичная современная выпечка из слоеного дрожжевого теста с начинкой из заварного крема и спелой яркой вишни",
     "kcal": "304.3",
-    "img": "/img/menu/venzel-s-vishnei.jpg",
+    "img": "/img/menu/venzel-s-vishnei.webp",
     "nutrition": {
       "kcal": "304,3",
       "protein": "5,0",
@@ -1186,7 +1186,7 @@
       "carbs": "41,9"
     },
     "photos": [
-      "/img/dish/venzel-s-vishnei.jpg"
+      "/img/dish/venzel-s-vishnei.webp"
     ]
   },
   {
@@ -1197,7 +1197,7 @@
     "mark": "130 г",
     "short": "Круассан в форме шайбы с клубнично-заварным кремом. Покрыт белым шоколадом, клубничной шоколадной стружкой, фисташками и лавандой.",
     "kcal": "405.4",
-    "img": "/img/menu/shaiba-s-klubnichnim-kremom.jpg",
+    "img": "/img/menu/shaiba-s-klubnichnim-kremom.webp",
     "nutrition": {
       "kcal": "405,4",
       "protein": "6,5",
@@ -1205,7 +1205,7 @@
       "carbs": "41,4"
     },
     "photos": [
-      "/img/dish/shaiba-s-klubnichnim-kremom.jpg"
+      "/img/dish/shaiba-s-klubnichnim-kremom.webp"
     ]
   },
   {
@@ -1216,7 +1216,7 @@
     "mark": "130 г",
     "short": "Круассан в форме шайбы с ежевично-заварным кремом покрыт молочным шоколадом и украшен шоколадной крошкой,вермишелью из молочного шоколада и грецким орехом.",
     "kcal": "404.8",
-    "img": "/img/menu/shaiba-s-ezhevichnim-kremom.jpg",
+    "img": "/img/menu/shaiba-s-ezhevichnim-kremom.webp",
     "nutrition": {
       "kcal": "404,8",
       "protein": "6,4",
@@ -1224,7 +1224,7 @@
       "carbs": "41,4"
     },
     "photos": [
-      "/img/dish/shaiba-s-ezhevichnim-kremom.jpg"
+      "/img/dish/shaiba-s-ezhevichnim-kremom.webp"
     ]
   },
   {
@@ -1235,8 +1235,8 @@
     "mark": "75 г",
     "short": "Круассан из слоёного теста, с хрустящей сладкой корочкой, посыпанный лепестками миндаля и сахаром.",
     "kcal": "472.2",
-    "img": "/img/menu/kruassan-s-mindalem.jpg",
-    "img2": "/img/menu/kruassan-s-mindalem-2.jpg",
+    "img": "/img/menu/kruassan-s-mindalem.webp",
+    "img2": "/img/menu/kruassan-s-mindalem-2.webp",
     "nutrition": {
       "kcal": "472,2",
       "protein": "6,9",
@@ -1244,8 +1244,8 @@
       "carbs": "72"
     },
     "photos": [
-      "/img/dish/kruassan-s-mindalem.jpg",
-      "/img/dish/kruassan-s-mindalem-2.jpg"
+      "/img/dish/kruassan-s-mindalem.webp",
+      "/img/dish/kruassan-s-mindalem-2.webp"
     ]
   },
   {
@@ -1256,7 +1256,7 @@
     "mark": "75 г",
     "short": "Круассан из слоёного теста, с начинкой из шоколада.",
     "kcal": "432.6",
-    "img": "/img/menu/kruassan-s-shokoladom.jpg",
+    "img": "/img/menu/kruassan-s-shokoladom.webp",
     "nutrition": {
       "kcal": "432,6",
       "protein": "7,3",
@@ -1264,7 +1264,7 @@
       "carbs": "48,2"
     },
     "photos": [
-      "/img/dish/kruassan-s-shokoladom.jpg"
+      "/img/dish/kruassan-s-shokoladom.webp"
     ]
   },
   {
@@ -1275,8 +1275,8 @@
     "mark": "110 г",
     "short": "Изысканное сочетание хрустящего слоёного теста с нежнейшей ванильной начинкой и пикантной карамельной глазурью.",
     "kcal": "472.2",
-    "img": "/img/menu/kruassan-s-vanilnim-kremom-i-solenoi-kar.jpg",
-    "img2": "/img/menu/kruassan-s-vanilnim-kremom-i-solenoi-kar-2.jpg",
+    "img": "/img/menu/kruassan-s-vanilnim-kremom-i-solenoi-kar.webp",
+    "img2": "/img/menu/kruassan-s-vanilnim-kremom-i-solenoi-kar-2.webp",
     "nutrition": {
       "kcal": "472,2",
       "protein": "6,9",
@@ -1284,8 +1284,8 @@
       "carbs": "72"
     },
     "photos": [
-      "/img/dish/kruassan-s-vanilnim-kremom-i-solenoi-kar.jpg",
-      "/img/dish/kruassan-s-vanilnim-kremom-i-solenoi-kar-2.jpg"
+      "/img/dish/kruassan-s-vanilnim-kremom-i-solenoi-kar.webp",
+      "/img/dish/kruassan-s-vanilnim-kremom-i-solenoi-kar-2.webp"
     ]
   },
   {
@@ -1296,8 +1296,8 @@
     "mark": "115 г",
     "short": "Классическая выпечка из мягкого дрожжевого теста с нежной творожной начинкой. Золотистая корочка, воздушное тесто и сочная творожная серединка создают неповторимый домашний вкус.",
     "kcal": "325.3",
-    "img": "/img/menu/vatrushka-s-tvorogom.jpg",
-    "img2": "/img/menu/vatrushka-s-tvorogom-2.jpg",
+    "img": "/img/menu/vatrushka-s-tvorogom.webp",
+    "img2": "/img/menu/vatrushka-s-tvorogom-2.webp",
     "nutrition": {
       "kcal": "325,3",
       "protein": "10,8",
@@ -1305,8 +1305,8 @@
       "carbs": "41,1"
     },
     "photos": [
-      "/img/dish/vatrushka-s-tvorogom.jpg",
-      "/img/dish/vatrushka-s-tvorogom-2.jpg"
+      "/img/dish/vatrushka-s-tvorogom.webp",
+      "/img/dish/vatrushka-s-tvorogom-2.webp"
     ]
   },
   {
@@ -1317,7 +1317,7 @@
     "mark": "50 г",
     "short": "Сочный пирожок из сдобно-дрожжевого теста с ароматной начинкой из ветчины и сыра",
     "kcal": "268.6",
-    "img": "/img/menu/pirozhok-s-vetchinoi-i-sirom.jpg",
+    "img": "/img/menu/pirozhok-s-vetchinoi-i-sirom.webp",
     "nutrition": {
       "kcal": "268,6",
       "protein": "13,1",
@@ -1325,7 +1325,7 @@
       "carbs": "34"
     },
     "photos": [
-      "/img/dish/pirozhok-s-vetchinoi-i-sirom.jpg"
+      "/img/dish/pirozhok-s-vetchinoi-i-sirom.webp"
     ],
     "composition": "Дрожжи, масло растительное, мука пшеничная в/с, сахар, соль, яйцо, масло сливочное, молоко, вода, ветчина, сыр, сливки 33%."
   },
@@ -1337,7 +1337,7 @@
     "mark": "50 г",
     "short": "Традиционная русская выпечка из нежного дрожжевого теста с мелко нарубленной белокочанной капустой.",
     "kcal": "282.5",
-    "img": "/img/menu/pirozhok-s-kapustoi.jpg",
+    "img": "/img/menu/pirozhok-s-kapustoi.webp",
     "nutrition": {
       "kcal": "282,5",
       "protein": "7,7",
@@ -1345,7 +1345,7 @@
       "carbs": "38,1"
     },
     "photos": [
-      "/img/dish/pirozhok-s-kapustoi.jpg"
+      "/img/dish/pirozhok-s-kapustoi.webp"
     ],
     "composition": "Дрожжи, масло растительное, мука пшеничная в/с, сахар, соль, яйцо, масло сливочное, молоко, вода, капуста белокочанная, перец черный молотый, укроп свежий, сливки 33%."
   },
@@ -1357,7 +1357,7 @@
     "mark": "50 г",
     "short": "Традиционная выпечка из сдобного теста с сочной начинкой из картофельного пюре и жареного лука.",
     "kcal": "263.3",
-    "img": "/img/menu/pirozhok-s-kartofelem.jpg",
+    "img": "/img/menu/pirozhok-s-kartofelem.webp",
     "nutrition": {
       "kcal": "263,3",
       "protein": "7,5",
@@ -1365,7 +1365,7 @@
       "carbs": "45"
     },
     "photos": [
-      "/img/dish/pirozhok-s-kartofelem.jpg"
+      "/img/dish/pirozhok-s-kartofelem.webp"
     ],
     "composition": "Дрожжи, масло растительное, мука пшеничная в/с, сахар, соль, яйцо, вода, молоко, картофель, масло сливочное, лук жареный."
   },
@@ -1377,7 +1377,7 @@
     "mark": "50 г",
     "short": "Традиционная выпечка из мягкого дрожжевого теста с сочной начинкой из отварных яиц и свежего зелёного лука.",
     "kcal": "251.2",
-    "img": "/img/menu/pirozhok-s-lukom-i-yaitsom.jpg",
+    "img": "/img/menu/pirozhok-s-lukom-i-yaitsom.webp",
     "nutrition": {
       "kcal": "251,2",
       "protein": "11,5",
@@ -1385,7 +1385,7 @@
       "carbs": "33,9"
     },
     "photos": [
-      "/img/dish/pirozhok-s-lukom-i-yaitsom.jpg"
+      "/img/dish/pirozhok-s-lukom-i-yaitsom.webp"
     ],
     "composition": "Дрожжи, масло растительное, мука пшеничная в/с, сахар, соль, яйцо, масло сливочное, молоко, вода, лук зелёный, майонез, сливки 33%."
   },
@@ -1397,7 +1397,7 @@
     "mark": "50 г",
     "short": "Сочная выпечка из мягкого дрожжевого теста с ароматной начинкой из двух видов мяса: говядины и свинины.",
     "kcal": "328.6",
-    "img": "/img/menu/pirozhok-s-myasom.jpg",
+    "img": "/img/menu/pirozhok-s-myasom.webp",
     "nutrition": {
       "kcal": "328,6",
       "protein": "16",
@@ -1405,7 +1405,7 @@
       "carbs": "34,4"
     },
     "photos": [
-      "/img/dish/pirozhok-s-myasom.jpg"
+      "/img/dish/pirozhok-s-myasom.webp"
     ],
     "composition": "Дрожжи, масло растительное, мука пшеничная в/с, сахар, соль, яйцо, масло сливочное, молоко, вода, говядина, свинина, лук репчатый, перец черный молотый, сливки 33%."
   },
@@ -1417,7 +1417,7 @@
     "mark": "50 г",
     "short": "Ароматная выпечка из нежного дрожжевого теста с сочной начинкой из свежих яблок.",
     "kcal": "369.9",
-    "img": "/img/menu/pirozhok-s-yablokami.jpg",
+    "img": "/img/menu/pirozhok-s-yablokami.webp",
     "nutrition": {
       "kcal": "369,9",
       "protein": "8,2",
@@ -1425,7 +1425,7 @@
       "carbs": "48,5"
     },
     "photos": [
-      "/img/dish/pirozhok-s-yablokami.jpg"
+      "/img/dish/pirozhok-s-yablokami.webp"
     ],
     "composition": "Дрожжи, масло растительное, мука пшеничная в/с, сахар, соль, яйцо, масло сливочное, молоко, вода, яблоки, яблочный джем."
   },
@@ -1436,11 +1436,11 @@
     "price": 90,
     "mark": "125 г",
     "short": "Традиционная сдобная выпечка в форме сердца из мягкого дрожжевого теста с хрустящей сахарной корочкой.",
-    "img": "/img/menu/plyushka-moskovskaya.jpg",
-    "img2": "/img/menu/plyushka-moskovskaya-2.jpg",
+    "img": "/img/menu/plyushka-moskovskaya.webp",
+    "img2": "/img/menu/plyushka-moskovskaya-2.webp",
     "photos": [
-      "/img/dish/plyushka-moskovskaya.jpg",
-      "/img/dish/plyushka-moskovskaya-2.jpg"
+      "/img/dish/plyushka-moskovskaya.webp",
+      "/img/dish/plyushka-moskovskaya-2.webp"
     ],
     "composition": "Мука пшеничная в/с, сахар, соль, яйцо, дрожжи, молоко, сахарная пудра."
   },
@@ -1451,11 +1451,11 @@
     "price": 150,
     "mark": "150 г",
     "short": "Нежная дрожжевая выпечка с изюмом, пропитанная сахарным сиропом с коньяком и покрытая сахарной помадкой.",
-    "img": "/img/menu/rom-baba.jpg",
-    "img2": "/img/menu/rom-baba-2.jpg",
+    "img": "/img/menu/rom-baba.webp",
+    "img2": "/img/menu/rom-baba-2.webp",
     "photos": [
-      "/img/dish/rom-baba.jpg",
-      "/img/dish/rom-baba-2.jpg"
+      "/img/dish/rom-baba.webp",
+      "/img/dish/rom-baba-2.webp"
     ],
     "composition": "Мука пшеничная в/с, молоко, сахар, соль, яйцо, изюм, масло сливочное, дрожжи, сахарная помадка, коньяк."
   },
@@ -1466,11 +1466,11 @@
     "price": 160,
     "mark": "130 г",
     "short": "Горячая выпечка из золотистого дрожжевого теста с сочной сосиской внутри.",
-    "img": "/img/menu/sosiska-v-teste.jpg",
-    "img2": "/img/menu/sosiska-v-teste-2.jpg",
+    "img": "/img/menu/sosiska-v-teste.webp",
+    "img2": "/img/menu/sosiska-v-teste-2.webp",
     "photos": [
-      "/img/dish/sosiska-v-teste.jpg",
-      "/img/dish/sosiska-v-teste-2.jpg"
+      "/img/dish/sosiska-v-teste.webp",
+      "/img/dish/sosiska-v-teste-2.webp"
     ],
     "composition": "Дрожжи, мука пшеничная в/с, сахар, соль, яйцо, молоко, масло сливочное, масло растительное, сосиска молочная, семя кунжута."
   },
@@ -1481,10 +1481,10 @@
     "price": 90,
     "mark": "70 г",
     "short": "Выпечка из хрустящего слоёного теста с ароматной карамелизированной яблочной начинкой.",
-    "img": "/img/menu/treugolnik-s-yablokom.jpg",
+    "img": "/img/menu/treugolnik-s-yablokom.webp",
     "weightNote": "70 г",
     "photos": [
-      "/img/dish/treugolnik-s-yablokom.jpg"
+      "/img/dish/treugolnik-s-yablokom.webp"
     ],
     "composition": "Тесто слоёное бездрожжевое, яблоко, яблочный джем, сахар."
   },
@@ -1505,12 +1505,12 @@
         "price": 140
       }
     ],
-    "img": "/img/menu/sharlotka-yablochnaya.jpg",
-    "img2": "/img/menu/sharlotka-yablochnaya-2.jpg",
+    "img": "/img/menu/sharlotka-yablochnaya.webp",
+    "img2": "/img/menu/sharlotka-yablochnaya-2.webp",
     "photos": [
-      "/img/dish/sharlotka-yablochnaya.jpg",
-      "/img/dish/sharlotka-yablochnaya-2.jpg",
-      "/img/dish/sharlotka-yablochnaya-3.jpg"
+      "/img/dish/sharlotka-yablochnaya.webp",
+      "/img/dish/sharlotka-yablochnaya-2.webp",
+      "/img/dish/sharlotka-yablochnaya-3.webp"
     ]
   },
   {
@@ -1521,8 +1521,8 @@
     "mark": "900 г",
     "short": "Сдобное дрожжевое тесто с вишневой начинкой",
     "kcal": "252.6",
-    "img": "/img/menu/domashnii-sdobnii-pirog-s-vishnei.jpg",
-    "img2": "/img/menu/domashnii-sdobnii-pirog-s-vishnei-2.jpg",
+    "img": "/img/menu/domashnii-sdobnii-pirog-s-vishnei.webp",
+    "img2": "/img/menu/domashnii-sdobnii-pirog-s-vishnei-2.webp",
     "nutrition": {
       "kcal": "252,6",
       "protein": "5",
@@ -1530,8 +1530,8 @@
       "carbs": "42,3"
     },
     "photos": [
-      "/img/dish/domashnii-sdobnii-pirog-s-vishnei.jpg",
-      "/img/dish/domashnii-sdobnii-pirog-s-vishnei-2.jpg"
+      "/img/dish/domashnii-sdobnii-pirog-s-vishnei.webp",
+      "/img/dish/domashnii-sdobnii-pirog-s-vishnei-2.webp"
     ]
   },
   {
@@ -1541,16 +1541,16 @@
     "price": 1480,
     "mark": "880 г",
     "short": "Нежное дрожжевое тесто с хрустящей золотистой корочкой гармонично сочетается с сочной начинкой из отварной курицы и расплавленного сыра.",
-    "img": "/img/menu/pirog-drozhzhevoi-so-slivochnoi-kuritsei.jpg",
-    "img2": "/img/menu/pirog-drozhzhevoi-so-slivochnoi-kuritsei-2.jpg",
+    "img": "/img/menu/pirog-drozhzhevoi-so-slivochnoi-kuritsei.webp",
+    "img2": "/img/menu/pirog-drozhzhevoi-so-slivochnoi-kuritsei-2.webp",
     "full": [
       "Нежное дрожжевое тесто с хрустящей золотистой корочкой гармонично сочетается с сочной начинкой из отварной курицы и расплавленного сыра.",
       "Заказ на пирог принимается за 2 дня до даты доставки."
     ],
     "weightNote": "880 г",
     "photos": [
-      "/img/dish/pirog-drozhzhevoi-so-slivochnoi-kuritsei.jpg",
-      "/img/dish/pirog-drozhzhevoi-so-slivochnoi-kuritsei-2.jpg"
+      "/img/dish/pirog-drozhzhevoi-so-slivochnoi-kuritsei.webp",
+      "/img/dish/pirog-drozhzhevoi-so-slivochnoi-kuritsei-2.webp"
     ]
   },
   {
@@ -1570,9 +1570,9 @@
         "price": 320
       }
     ],
-    "img": "/img/menu/pirog-s-tuntsom.jpg",
+    "img": "/img/menu/pirog-s-tuntsom.webp",
     "photos": [
-      "/img/dish/pirog-s-tuntsom.jpg"
+      "/img/dish/pirog-s-tuntsom.webp"
     ]
   },
   {
@@ -1583,8 +1583,8 @@
     "mark": "400 г",
     "short": "Традиционный цельнозерновой хлеб с богатым составом и насыщенным вкусом. Создан по старинным рецептам с использованием натуральных ингредиентов и пшеничной закваски.",
     "kcal": "289.9",
-    "img": "/img/menu/hleb-zernovoi-stanichnii.jpg",
-    "img2": "/img/menu/hleb-zernovoi-stanichnii-2.jpg",
+    "img": "/img/menu/hleb-zernovoi-stanichnii.webp",
+    "img2": "/img/menu/hleb-zernovoi-stanichnii-2.webp",
     "nutrition": {
       "kcal": "289,9",
       "protein": "8,5",
@@ -1592,8 +1592,8 @@
       "carbs": "43,5"
     },
     "photos": [
-      "/img/dish/hleb-zernovoi-stanichnii.jpg",
-      "/img/dish/hleb-zernovoi-stanichnii-2.jpg"
+      "/img/dish/hleb-zernovoi-stanichnii.webp",
+      "/img/dish/hleb-zernovoi-stanichnii-2.webp"
     ]
   },
   {
@@ -1602,9 +1602,9 @@
     "section": "bread",
     "price": 80,
     "short": "Ароматный домашний хлеб с хрустящей корочкой и полезными злаками.",
-    "img": "/img/menu/baget-rzhanoi-mini.jpg",
+    "img": "/img/menu/baget-rzhanoi-mini.webp",
     "photos": [
-      "/img/dish/baget-rzhanoi-mini.jpg"
+      "/img/dish/baget-rzhanoi-mini.webp"
     ]
   },
   {
@@ -1613,9 +1613,9 @@
     "section": "bread",
     "price": 70,
     "short": "Классический французский хлеб с хрустящей корочкой и воздушной текстурой.",
-    "img": "/img/menu/baget-pshenichnii-mini.jpg",
+    "img": "/img/menu/baget-pshenichnii-mini.webp",
     "photos": [
-      "/img/dish/baget-pshenichnii-mini.jpg"
+      "/img/dish/baget-pshenichnii-mini.webp"
     ]
   },
   {
@@ -1626,8 +1626,8 @@
     "mark": "230 г",
     "short": "Изысканный мини-багет с богатым букетом пряных трав и натуральных семян. Идеальное сочетание хрустящей корочки и ароматного, мягкого мякиша с пикантными нотками.",
     "kcal": "245.5",
-    "img": "/img/menu/baget-mini-pryanii.jpg",
-    "img2": "/img/menu/baget-mini-pryanii-2.jpg",
+    "img": "/img/menu/baget-mini-pryanii.webp",
+    "img2": "/img/menu/baget-mini-pryanii-2.webp",
     "nutrition": {
       "kcal": "245,5",
       "protein": "7,8",
@@ -1635,8 +1635,8 @@
       "carbs": "48,4"
     },
     "photos": [
-      "/img/dish/baget-mini-pryanii.jpg",
-      "/img/dish/baget-mini-pryanii-2.jpg"
+      "/img/dish/baget-mini-pryanii.webp",
+      "/img/dish/baget-mini-pryanii-2.webp"
     ]
   },
   {
@@ -1647,8 +1647,8 @@
     "mark": "360 г",
     "short": "Изысканный ароматный хлеб с богатым вкусом и неповторимым пряным букетом. Каждый кусочек наполнен натуральными ингредиентами и душистыми специями, создающими неповторимую симфонию вкуса.",
     "kcal": "237.06",
-    "img": "/img/menu/hleb-aromatnii.jpg",
-    "img2": "/img/menu/hleb-aromatnii-2.jpg",
+    "img": "/img/menu/hleb-aromatnii.webp",
+    "img2": "/img/menu/hleb-aromatnii-2.webp",
     "nutrition": {
       "kcal": "237,06",
       "protein": "6,8",
@@ -1656,8 +1656,8 @@
       "carbs": "41,6"
     },
     "photos": [
-      "/img/dish/hleb-aromatnii.jpg",
-      "/img/dish/hleb-aromatnii-2.jpg"
+      "/img/dish/hleb-aromatnii.webp",
+      "/img/dish/hleb-aromatnii-2.webp"
     ]
   },
   {
@@ -1668,8 +1668,8 @@
     "mark": "350 г",
     "short": "Традиционный зерновой хлеб в современном исполнении, сочетающий в себе лучшие качества ржаной и пшеничной муки. Благодаря особой технологии приготовления на натуральной закваске, хлеб приобретает неповторимый вкус и аромат.",
     "kcal": "254.3",
-    "img": "/img/menu/hleb-zernovoi-vyatskii.jpg",
-    "img2": "/img/menu/hleb-zernovoi-vyatskii-2.jpg",
+    "img": "/img/menu/hleb-zernovoi-vyatskii.webp",
+    "img2": "/img/menu/hleb-zernovoi-vyatskii-2.webp",
     "nutrition": {
       "kcal": "254,3",
       "protein": "8,6",
@@ -1677,8 +1677,8 @@
       "carbs": "46"
     },
     "photos": [
-      "/img/dish/hleb-zernovoi-vyatskii.jpg",
-      "/img/dish/hleb-zernovoi-vyatskii-2.jpg"
+      "/img/dish/hleb-zernovoi-vyatskii.webp",
+      "/img/dish/hleb-zernovoi-vyatskii-2.webp"
     ]
   },
   {
@@ -1688,11 +1688,11 @@
     "price": 100,
     "mark": "ПОСТНОЕ",
     "short": "Традиционный русский ржаной хлеб с характерным пряным ароматом и вкусом. Изготовлен по классической рецептуре с добавлением ржаного солода, патоки и кориандра, что придает хлебу неповторимый вкус и аромат.",
-    "img": "/img/menu/hleb-borodinskii.jpg",
-    "img2": "/img/menu/hleb-borodinskii-2.jpg",
+    "img": "/img/menu/hleb-borodinskii.webp",
+    "img2": "/img/menu/hleb-borodinskii-2.webp",
     "photos": [
-      "/img/dish/hleb-borodinskii.jpg",
-      "/img/dish/hleb-borodinskii-2.jpg"
+      "/img/dish/hleb-borodinskii.webp",
+      "/img/dish/hleb-borodinskii-2.webp"
     ],
     "composition": "Мука пшеничная, мука ржаная, соль, сахар, дрожжи, солод ржаной, тмин молотый, кориандр молотый, вода."
   },
@@ -1704,8 +1704,8 @@
     "mark": "320 г",
     "short": "Традиционная американская выпечка с воздушной текстурой и нежным кукурузным вкусом. Изготовлен из отборной кукурузной муки грубого помола, что придает хлебу рассыпчатую и мягкую структуру.",
     "kcal": "265.7",
-    "img": "/img/menu/hleb-kukuruznii.jpg",
-    "img2": "/img/menu/hleb-kukuruznii-2.jpg",
+    "img": "/img/menu/hleb-kukuruznii.webp",
+    "img2": "/img/menu/hleb-kukuruznii-2.webp",
     "nutrition": {
       "kcal": "265,7",
       "protein": "9,9",
@@ -1713,8 +1713,8 @@
       "carbs": "48,7"
     },
     "photos": [
-      "/img/dish/hleb-kukuruznii.jpg",
-      "/img/dish/hleb-kukuruznii-2.jpg"
+      "/img/dish/hleb-kukuruznii.webp",
+      "/img/dish/hleb-kukuruznii-2.webp"
     ]
   },
   {
@@ -1725,7 +1725,7 @@
     "mark": "300 г",
     "short": "Полезный цельнозерновой хлеб округлой формы с плотной хрустящей корочкой. Изготовлен без использования дрожжей, что делает его идеальным выбором для здорового питания.",
     "kcal": "247.7",
-    "img": "/img/menu/hleb-lugovoi-bezdrozhzhevoi.jpg",
+    "img": "/img/menu/hleb-lugovoi-bezdrozhzhevoi.webp",
     "nutrition": {
       "kcal": "247,7",
       "protein": "69",
@@ -1733,7 +1733,7 @@
       "carbs": "48,7"
     },
     "photos": [
-      "/img/dish/hleb-lugovoi-bezdrozhzhevoi.jpg"
+      "/img/dish/hleb-lugovoi-bezdrozhzhevoi.webp"
     ]
   },
   {
@@ -1744,7 +1744,7 @@
     "mark": "200 г",
     "short": "Классический ароматный хлеб с золотистой корочкой и нежной воздушной текстурой. Изготовлен из отборной пшеничной муки по традиционной рецептуре.",
     "kcal": "212.1",
-    "img": "/img/menu/hleb-pshenichnii.jpg",
+    "img": "/img/menu/hleb-pshenichnii.webp",
     "nutrition": {
       "kcal": "212,1",
       "protein": "6,4",
@@ -1752,7 +1752,7 @@
       "carbs": "45,2"
     },
     "photos": [
-      "/img/dish/hleb-pshenichnii.jpg"
+      "/img/dish/hleb-pshenichnii.webp"
     ],
     "composition": "Мука пшеничная в/с, соль, масло, дрожжи."
   },
@@ -1763,9 +1763,9 @@
     "price": 80,
     "mark": "ПОСТНОЕ",
     "short": "Традиционная выпечка с насыщенным вкусом и характерным ароматом.",
-    "img": "/img/menu/hleb-rzhanoi.jpg",
+    "img": "/img/menu/hleb-rzhanoi.webp",
     "photos": [
-      "/img/dish/hleb-rzhanoi.jpg"
+      "/img/dish/hleb-rzhanoi.webp"
     ],
     "composition": "Мука пшеничная в/с, мука ржаная, масло растительное, дрожжи, вода."
   },
@@ -1776,11 +1776,11 @@
     "price": 130,
     "mark": "ПОСТНОЕ",
     "short": "Изысканная выпечка с ярким средиземноморским характером и сочными вкраплениями спелых томатов.",
-    "img": "/img/menu/hleb-s-tomatami.jpg",
-    "img2": "/img/menu/hleb-s-tomatami-2.jpg",
+    "img": "/img/menu/hleb-s-tomatami.webp",
+    "img2": "/img/menu/hleb-s-tomatami-2.webp",
     "photos": [
-      "/img/dish/hleb-s-tomatami.jpg",
-      "/img/dish/hleb-s-tomatami-2.jpg"
+      "/img/dish/hleb-s-tomatami.webp",
+      "/img/dish/hleb-s-tomatami-2.webp"
     ],
     "composition": "Мука пшеничная в/с, соль, дрожжи, томаты свежие, соус мутти, орегано, масло растительное, чеснок, вода."
   }
