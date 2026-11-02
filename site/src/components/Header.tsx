@@ -85,7 +85,7 @@ export function Header() {
                 initial={{ scale: 0.6, opacity: 0 }}
                 animate={{ scale: 1, opacity: 1 }}
                 exit={{ scale: 0.6, opacity: 0 }}
-                className="tabular grid h-6 min-w-6 place-items-center rounded-full bg-mint px-1.5 text-sm text-ink"
+                className="tabular absolute -right-1 -top-1 grid h-6 min-w-6 place-items-center rounded-full bg-mint px-1.5 text-sm text-ink ring-2 ring-white"
                 aria-label={`позиций: ${count}`}
               >
                 {count}
