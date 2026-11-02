@@ -13,6 +13,8 @@ ssh() { command ssh "${SSH_OPTS[@]}" "$@"; }
 scp() { command scp "${SSH_OPTS[@]}" "$@"; }
 
 cd "$SITE"
+# Кэш Turbopack однажды отдал старый CSS: собираем начисто.
+rm -rf .next/cache
 npx next build
 mkdir -p "$DIST"
 cp -R .next/standalone/. "$DIST/"
