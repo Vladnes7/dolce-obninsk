@@ -55,8 +55,9 @@ export function Header() {
       }`}
     >
       <div className="relative z-10 mx-auto flex h-16 max-w-[1320px] items-center gap-3 px-4 md:gap-5 md:h-[76px] md:px-8">
-        <Link href="/#top" onClick={() => setMenu(false)} className="flex min-h-11 items-center" aria-label="Dolce, на главную">
-          <Logo className="w-[124px] shrink-0 md:w-[148px]" />
+        <Link href="/#top" onClick={() => setMenu(false)} className="flex min-h-11 shrink-0 items-center gap-2 md:gap-3" aria-label="Dolce, на главную">
+          <Image src="/img/brand/dolce-bianco-round.webp" alt="" width={256} height={256} sizes="(min-width: 768px) 56px, 44px" loading="eager" className="size-11 shrink-0 md:size-14" />
+          <Logo className="w-[102px] shrink-0 md:w-[148px]" />
         </Link>
 
         <nav className="ml-auto hidden items-center gap-1 lg:flex" aria-label="Разделы">
