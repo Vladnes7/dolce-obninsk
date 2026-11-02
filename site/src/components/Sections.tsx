@@ -255,8 +255,8 @@ export function Shops() {
           ))}
         </ul>
         <Reveal className="mt-4 overflow-hidden rounded-2xl">
-          <div className="relative aspect-[16/7] max-md:aspect-[4/3]">
-            <Image src="/img/eksterer-015.jpg" alt="Вход в кондитерскую Dolce вечером" fill sizes="(min-width: 1320px) 1256px, 100vw" className="object-cover object-[50%_40%]" />
+          <div className="relative aspect-[16/9] max-md:aspect-[4/3]">
+            <Image src="/img/dolce-storefront-wide.webp" alt="Вход и вывеска кондитерской Dolce Bianco" fill sizes="(min-width: 1320px) 1256px, 100vw" className="object-contain bg-mint-light" />
           </div>
         </Reveal>
       </div>
@@ -269,7 +269,7 @@ export function Footer() {
     <footer className="scallop-top relative bg-ink pb-[max(2.5rem,env(safe-area-inset-bottom))] pt-16 text-white">
       <div className="mx-auto grid max-w-[1320px] gap-10 px-4 sm:grid-cols-2 md:px-8 lg:grid-cols-[1.3fr_1fr_1fr_1fr]">
         <div>
-          <Logo className="w-[190px] text-mint" />
+          <Logo inverse className="w-[190px]" />
           <p className="mt-3 max-w-xs text-white/70">Кофейня-кондитерская в Обнинске</p>
         </div>
         <div>

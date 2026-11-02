@@ -1,10 +1,11 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { motion, AnimatePresence } from "motion/react";
 import { useEffect, useState } from "react";
 import { PHONES } from "@/data/site";
-import { Terrazzo, Wordmark } from "./Decor";
+import { Terrazzo } from "./Decor";
 import { useOrder } from "./order/OrderContext";
 import { EASE } from "./Reveal";
 
@@ -17,9 +18,9 @@ const NAV = [
   { href: "/#shops", label: "Адреса" },
 ];
 
-// Логотип: настоящий вордмарк «кофейня-кондитерская DOLCE», цвет через text-*.
-export function Logo({ className = "w-[118px]" }: { className?: string }) {
-  return <Wordmark full className={className} />;
+// Фирменный Dolce Bianco восстановлен по исходному логотипу, без подмены шрифта.
+export function Logo({ className = "w-[130px]", inverse = false }: { className?: string; inverse?: boolean }) {
+  return <Image src="/img/brand/dolce-bianco.webp" alt="Кондитерская Dolce Bianco" loading="eager" width={768} height={265} sizes="190px" className={`h-auto ${inverse ? "brightness-0 invert" : ""} ${className}`} />;
 }
 
 export function Header() {
@@ -50,12 +51,12 @@ export function Header() {
   return (
     <header
       className={`fixed inset-x-0 top-0 z-40 pt-[env(safe-area-inset-top)] text-ink transition-[background-color,box-shadow] duration-300 ${
-        scrolled && !menu ? "bg-white/92 shadow-[0_1px_0_rgba(31,58,55,0.08)] backdrop-blur-md" : "bg-transparent"
+        scrolled && !menu ? "bg-white/92 shadow-[0_1px_0_rgba(31,58,55,0.08)] backdrop-blur-md" : "bg-white/95"
       }`}
     >
-      <div className="relative z-10 mx-auto flex h-16 max-w-[1320px] items-center gap-6 px-4 md:h-[76px] md:px-8">
+      <div className="relative z-10 mx-auto flex h-16 max-w-[1320px] items-center gap-3 px-4 md:gap-5 md:h-[76px] md:px-8">
         <Link href="/#top" onClick={() => setMenu(false)} className="flex min-h-11 items-center" aria-label="Dolce, на главную">
-          <Logo className="w-[104px] text-mint-deeper md:w-[122px]" />
+          <Logo className="w-[124px] shrink-0 md:w-[148px]" />
         </Link>
 
         <nav className="ml-auto hidden items-center gap-1 lg:flex" aria-label="Разделы">

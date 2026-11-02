@@ -228,3 +228,15 @@ html[data-bg="ink"] {
     animation: none;
   }
 }
+
+
+/* Фотографический первый экран: локальное затемнение для контраста текста.
+   Цвета интерфейса остаются в утверждённой мятной палитре. */
+.hero-shade {
+  background: linear-gradient(180deg, rgb(23 46 43 / 77%) 0%, rgb(23 46 43 / 62%) 40%, rgb(23 46 43 / 4%) 64%, rgb(23 46 43 / 12%) 84%, rgb(23 46 43 / 70%) 100%);
+}
+@media (min-width: 768px) {
+  .hero-shade {
+    background: linear-gradient(90deg, rgb(23 46 43 / 88%) 0%, rgb(23 46 43 / 76%) 25%, rgb(23 46 43 / 30%) 47%, transparent 70%), linear-gradient(0deg, rgb(23 46 43 / 55%), transparent 23%);
+  }
+}

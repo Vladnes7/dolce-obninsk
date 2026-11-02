@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Dolce: торты и десерты на заказ в Обнинске",
     description: "Кофейня-кондитерская: торты из витрины и на заказ, доставка по Обнинску.",
-    images: [{ url: "/img/hero.jpg", width: 1734, height: 2600 }],
+    images: [{ url: "/img/hero-dolce-table.webp", width: 1672, height: 941 }],
     locale: "ru_RU",
     type: "website",
   },
@@ -56,7 +56,7 @@ const jsonLd = {
   name: "Dolce",
   url: "https://dolcecake.ru",
   telephone: PHONES[0].tel,
-  image: "https://dolcecake.ru/img/hero.jpg",
+  image: "https://dolcecake.ru/img/hero-dolce-table.webp",
   address: {
     "@type": "PostalAddress",
     streetAddress: "пр-т Маркса, 34",
