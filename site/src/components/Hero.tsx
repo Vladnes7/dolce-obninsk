@@ -1,7 +1,7 @@
 "use client";
 
 import { getImageProps } from "next/image";
-import { motion, useReducedMotion } from "motion/react";
+import { motion } from "motion/react";
 import { RATING } from "@/data/site";
 import { EASE } from "./Reveal";
 
@@ -12,21 +12,19 @@ const { props: desktop } = getImageProps({ ...shared, src: "/img/hero-dolce-tabl
 const { props: mobile } = getImageProps({ ...shared, src: "/img/hero-dolce-table-mobile.webp", width: 1024, height: 1536 });
 
 export function Hero() {
-  const reduce = useReducedMotion();
-
   return (
     <section id="top" aria-labelledby="hero-title" className="hero-scene relative isolate flex min-h-[max(780px,100svh)] flex-col overflow-hidden bg-ink text-white md:min-h-[max(820px,100svh)] lg:min-h-[min(100svh,1040px)]">
       <picture className="absolute inset-0 -z-20">
-        <source media="(max-width: 767px)" srcSet={mobile.srcSet} />
+        <source media="(max-width: 1023px)" srcSet={mobile.srcSet} />
         {/* getImageProps сохраняет оптимизацию Next в адаптивном picture. */}
-        <img {...desktop} alt={shared.alt} className="size-full object-cover object-[55%_65%] md:object-[65%_50%]" />
+        <img {...desktop} alt={shared.alt} className="size-full object-cover object-[55%_65%] md:object-[100%_50%] xl:object-[65%_50%]" />
       </picture>
       <div aria-hidden="true" className="hero-shade absolute inset-0 -z-10" />
 
-      <div className="relative mx-auto flex w-full max-w-[1320px] flex-1 flex-col px-5 pb-10 pt-[132px] md:px-8 md:pb-12 md:pt-44 lg:justify-center lg:pb-24 lg:pt-36">
+      <div className="relative mx-auto flex w-full max-w-[1320px] flex-1 flex-col px-5 pb-10 pt-[132px] md:px-8 md:pb-12 md:pt-44 xl:justify-center lg:pb-24 lg:pt-36">
         <motion.div
-          className="max-w-[580px]"
-          initial={reduce ? false : { opacity: 0, y: 14 }}
+          className="hero-copy max-w-[580px]"
+          initial={{ opacity: 0, y: 14 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, ease: EASE }}
         >

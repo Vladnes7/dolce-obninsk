@@ -235,8 +235,25 @@ html[data-bg="ink"] {
 .hero-shade {
   background: linear-gradient(180deg, rgb(23 46 43 / 77%) 0%, rgb(23 46 43 / 62%) 40%, rgb(23 46 43 / 4%) 64%, rgb(23 46 43 / 12%) 84%, rgb(23 46 43 / 70%) 100%);
 }
-@media (min-width: 768px) {
+@media (min-width: 1280px) {
   .hero-shade {
     background: linear-gradient(90deg, rgb(23 46 43 / 88%) 0%, rgb(23 46 43 / 76%) 25%, rgb(23 46 43 / 30%) 47%, transparent 70%), linear-gradient(0deg, rgb(23 46 43 / 55%), transparent 23%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-copy {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
+/* Одна разметка на сервере и клиенте, включая режим уменьшенной анимации. */
+@media (prefers-reduced-motion: reduce) {
+  .terrazzo-drift {
+    transform: none !important;
+  }
+  .script-word {
+    clip-path: none !important;
   }
 }

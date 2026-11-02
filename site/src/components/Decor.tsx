@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useReducedMotion, useScroll, useTransform } from "motion/react";
+import { motion, useScroll, useTransform } from "motion/react";
 import { useRef, type ReactNode } from "react";
 import { EASE } from "./Reveal";
 
@@ -55,13 +55,12 @@ export function Terrazzo({
   drift?: number;
 }) {
   const ref = useRef<HTMLDivElement>(null);
-  const reduce = useReducedMotion();
   const { scrollYProgress } = useScroll({ target: ref, offset: ["start end", "end start"] });
-  const y = useTransform(scrollYProgress, [0, 1], reduce ? [0, 0] : [drift, -drift]);
+  const y = useTransform(scrollYProgress, [0, 1], [drift, -drift]);
   const list = chips(seed, count, PALETTE[tone]);
   return (
     <div ref={ref} aria-hidden="true" className={`pointer-events-none absolute inset-0 overflow-hidden ${className}`}>
-      <motion.div style={{ y }} className="absolute inset-x-0 -inset-y-[10%]">
+      <motion.div style={{ y }} className="terrazzo-drift absolute inset-x-0 -inset-y-[10%]">
         {list.map((c, i) => (
           <span
             key={i}
@@ -90,13 +89,11 @@ export function Wordmark({ full = false, className = "" }: { full?: boolean; cla
 
 /* Рукописное слово «пишется» слева направо, как кремом из кондитерского мешка. */
 export function ScriptWord({ children, className = "", delay = 0, inView = true }: { children: ReactNode; className?: string; delay?: number; inView?: boolean }) {
-  const reduce = useReducedMotion();
   const hidden = { clipPath: "inset(-30% 100% -30% -10%)" };
   const shown = { clipPath: "inset(-30% -10% -30% -10%)" };
-  if (reduce) return <span className={`script inline-block px-[0.08em] ${className}`}>{children}</span>;
   return (
     <motion.span
-      className={`script inline-block px-[0.08em] ${className}`}
+      className={`script script-word inline-block px-[0.08em] ${className}`}
       initial={hidden}
       {...(inView ? { whileInView: shown, viewport: { once: true, margin: "0px 0px -10% 0px" } } : { animate: shown })}
       transition={{ duration: 1.4, ease: EASE, delay }}
