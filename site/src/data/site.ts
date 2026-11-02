@@ -9,7 +9,6 @@ export const PHONES = [
 export const WHATSAPP = "79105208225";
 
 export const SOCIALS = [
-  { name: "ВКонтакте", href: "https://vk.com/dbianco" },
   { name: "Telegram", href: "https://t.me/dolcebiancogroup" },
 ] as const;
 

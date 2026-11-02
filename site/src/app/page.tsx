@@ -3,6 +3,7 @@ import { ContactProvider } from "@/components/Contact";
 import { Bento, CustomCake } from "@/components/CustomCake";
 import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
+import { Journal } from "@/components/Journal";
 import { FactsBand } from "@/components/Marquee";
 import { OrderDrawer } from "@/components/order/OrderDrawer";
 import { Partners } from "@/components/Partners";
@@ -20,6 +21,7 @@ export default function Home() {
         <CustomCake />
         <Reviews />
         <Cafe />
+        <Journal />
         <Delivery />
         <Shops />
         <Partners />
